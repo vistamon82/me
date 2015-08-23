@@ -1,0 +1,1 @@
+https://duckduckgo.com/search.html?prefill=
