@@ -1,0 +1,66 @@
+==================================================================
+https://keybase.io/vistamon82
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://superuser.xyz
+  * I am vistamon82 (https://keybase.io/vistamon82) on keybase.
+  * I have a public key with fingerprint 836F D31A 4A91 F258 838E  037E 6353 0419 60C3 0AE5
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "836fd31a4a91f258838e037e6353041960c30ae5",
+            "host": "keybase.io",
+            "key_id": "6353041960c30ae5",
+            "kid": "0101d132178f2448682d349d9dace5f05bbbbeda6d884d7a27e1154c12baeeb475a10a",
+            "uid": "6ec2ae99fa9c678a25a456db33057119",
+            "username": "vistamon82"
+        },
+        "service": {
+            "hostname": "superuser.xyz",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1441866299,
+    "expire_in": 157680000,
+    "prev": null,
+    "seqno": 1,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.43
+Comment: https://keybase.io/crypto
+
+yMHyAnicbZFdSBRRFMd31dWyD8y+QMJiCuths7nzPWuYkmsfpIG5ISgsd2bu7k66
+M+vM7rZmJrJga9FDpUFkgvSiRthDCBlaSpASIihlBoZYsNCDlNAHKdYds7fuy+We
+8/v/z7nnvNySasu0PyiTN5C/nn+zvx5xRGyer0RBIyHpSgPhaiRq0drlUzU/MkKG
+qoUJFyHQnE+hAWSgCHwUKwi0gEiaRxzN0iQDRI6UaRIilnASAd20FNhGgibKV3Uc
+ww+vquDof/jatQQJSKAAmgK84KMYRuAESqEZUREVKCPWR7ISPkiBnCIIjMJDikcA
+sIwMKAkiJDE8CwEJsV3kbx0kUxCJog+KMscLkGIhw3KKRNMkywMgWqCJDA0GEaaj
+qhmGQV0TKKLJSeB4VJWRNQTrL+uMGQkhw9LkxxouYXnI0MO6rNfhVCAcDrksZbgh
+ZKEXkeRdN/FKqqbgSWJBFBmmqmuEC2BSDquWK2AYIHAcJYpOAsVCqoG8qkWwPCeQ
++FhlUJRwaZG6Oquxek3HWVwI+q2WVL8GwxEDEU2jL2rSbPZMW7ojxdqmLXNj1r8d
+d1zOWCWzp9CjgurE73j149zWHfNBx/KRY1fND4H2yuaKxKkO9US8JjvaNzmeMiJ+
+3Dui3+ifWj0cUxw9QbG4b25/xN1WmhgtpJaXSl8JmyvbpuJjRPPQ9Qqn7eiuPPfA
+z/LuubLcc4MLyX0l7Wkjs03OHPu0O2vgyWLeDzLZuph8Nt5fNfO5qypj5ulS6/cz
+277UF3rKDqVMTnTPg667926fnvB07hweK9qa3XL+bDqe6op5wdPZfHD3p3ipJ+m+
+Yp+NrSjHb/a+29NW3OI2ByM9OcNcV0u66+396YdvjALf0PtbAXlhOyNuulZC31nq
+JRPi/ERHkT+1/OSBKqI78QeqWRQn
+=Tfkm
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/vistamon82
+
+==================================================================
